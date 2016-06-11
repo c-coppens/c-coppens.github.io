@@ -27,7 +27,8 @@ padding: 0px;
 }
 
 p.references {
-    margin: 100px;
+      margin: 15cm 4cm 3cm 4cm;
+      /* top right bottom left*/
 }
    
 H1  { 
