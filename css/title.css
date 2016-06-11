@@ -15,31 +15,3 @@ font-size: 12pt;
 margin: 1px; 
 padding: 1px; 
 }
-
-.reduced2  { 
-color:rgb(0,93,153);
-font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
-font-size: 11pt;
-}
-
-.info  { 
-color:rgb(60, 60,60);
-font-family: Verdana, Helvetica, sans-serif;
-font-size: 8pt;
-}
-
-.normaltxt  { 
-color:rgb(60, 60, 60);
-font-family: Verdana, Helvetica, sans-serif;
-font-size: 8pt;
-}
-
-a  { 
-text-decoration: none;
-color:rgb(60,60,60);
-}
-
-a:hover
-{
-text-decoration: underline; 
-}
