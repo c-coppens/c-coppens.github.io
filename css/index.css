@@ -5,6 +5,13 @@ body {
    font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
    font-size: 10pt;
    }
+
+auteur {
+color:rgb(255,0,255);
+font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
+margin: 0px; 
+padding: 0px; 
+}
    
 H1  { 
 text-decoration: none;
