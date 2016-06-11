@@ -1,0 +1,45 @@
+H1  { 
+text-decoration: none;
+color:rgb(252,210,40);
+font-family: Verdana, Helvetica, sans-serif;
+font-size: 14pt;
+margin: 0px; 
+padding: 0px; 
+}
+
+H2  { 
+text-decoration: none;
+color:rgb(0,93,153);
+font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+font-size: 12pt;
+margin: 1px; 
+padding: 1px; 
+}
+
+.reduced2  { 
+color:rgb(0,93,153);
+font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+font-size: 11pt;
+}
+
+.info  { 
+color:rgb(60, 60,60);
+font-family: Verdana, Helvetica, sans-serif;
+font-size: 8pt;
+}
+
+.normaltxt  { 
+color:rgb(60, 60, 60);
+font-family: Verdana, Helvetica, sans-serif;
+font-size: 8pt;
+}
+
+a  { 
+text-decoration: none;
+color:rgb(60,60,60);
+}
+
+a:hover
+{
+text-decoration: underline; 
+}
