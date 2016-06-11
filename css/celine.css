@@ -14,7 +14,7 @@ font-size: 14pt;
 }
 
 techno {
-color:rgb(0,128,255);
+color:rgb(255,50,50);
 margin: 0px; 
 padding: 0px;
 font-size: 12pt;
@@ -36,7 +36,7 @@ padding: 0px;
 
 H2  { 
 text-decoration: none;
-color:rgb(255,50,50);
+color:rgb(0,128,255);
 font-size: 14pt;
 margin: 1px; 
 padding: 1px; 
