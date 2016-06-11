@@ -7,16 +7,14 @@ body {
    }
 
 auteur {
-color:rgb(255,0,255);
-font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
+color:rgb(0,128,255);
 margin: 0px; 
 padding: 0px; 
 }
    
 H1  { 
 text-decoration: none;
-color:rgb(255,0,255);
-font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
+color:rgb(0,128,255);
 font-size: 18pt;
 margin: 0px; 
 padding: 0px; 
@@ -25,7 +23,6 @@ padding: 0px;
 H2  { 
 text-decoration: none;
 color:rgb(0,93,153);
-font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
 font-size: 14pt;
 margin: 1px; 
 padding: 1px; 
