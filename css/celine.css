@@ -26,9 +26,8 @@ margin: 0px;
 padding: 0px; 
 }
 
-references {
-    margin: 2cm 4cm 3cm 4cm;
-    /* top right bottom left */
+p.references {
+    margin: 5%;
 }
    
 H1  { 
