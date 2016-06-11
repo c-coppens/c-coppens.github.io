@@ -5,7 +5,14 @@ body {
    font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
    font-size: 10pt;
    }
-   
+
+objet {
+color:rgb(0,128,255);
+margin: 0px; 
+padding: 0px;
+font-size: 14pt;
+}
+
 techno {
 color:rgb(0,128,255);
 margin: 0px; 
