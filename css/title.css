@@ -1,7 +1,7 @@
 H1  { 
 text-decoration: none;
 color:rgb(252,210,40);
-font-family: Verdana, Helvetica, sans-serif;
+font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
 font-size: 18pt;
 margin: 0px; 
 padding: 0px; 
@@ -10,7 +10,7 @@ padding: 0px;
 H2  { 
 text-decoration: none;
 color:rgb(0,93,153);
-font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+font-family: "Segoe UI Light", Verdana, Helvetica, sans-serif;
 font-size: 14pt;
 margin: 1px; 
 padding: 1px; 
