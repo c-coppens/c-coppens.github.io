@@ -3,17 +3,6 @@ body {
    margin-left: auto;
    margin-right: auto; 
    font-family: Verdana, Helvetica, sans-serif;
-   font-size: 8pt;
+   font-size: 10pt;
    }
 
-a  { 
-text-decoration: none;
-color:black
-}
-
-H1  { 
-text-decoration: none;
-color: black;
-font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
-font-size: 14pt;
-}
