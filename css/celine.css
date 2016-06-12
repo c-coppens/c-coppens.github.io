@@ -74,3 +74,12 @@ color:rgb(0,128,255);
 font-size: 12pt;
 padding: 1px; 
 }
+
+a.link      {color:rgb(0,128,255); background-color:transparent; text-decoration:none}
+a.visited   {color:rgb(0,128,255); background-color:transparent; text-decoration:none}
+a.hover     {color:rgb(255,50,50); background-color:transparent; text-decoration:underline}
+a.active    {color:rgb(0,128,255); background-color:transparent; text-decoration:underline}
+
+
+
+
