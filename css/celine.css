@@ -75,7 +75,7 @@ font-size: 12pt;
 padding: 1px; 
 }
 
-a:link      {color:rgb(0,128,255);}
-a:visited   {color:rgb(0,128,255);}
-a:hover     {color:rgb(255,50,50);}
-a:active    {color:rgb(0,128,255);}
+a:link      {color:rgb(255,50,50);}
+a:visited   {color:rgb(255,50,50);}
+a:hover     {color:rgb(0,128,255);}
+a:active    {color:rgb(255,50,50);}
