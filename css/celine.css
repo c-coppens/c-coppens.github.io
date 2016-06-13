@@ -75,6 +75,13 @@ font-size: 12pt;
 padding: 1px; 
 }
 
+H6  { 
+text-decoration: none;
+color:rgb(0,180,0);
+font-size: 10pt;
+padding: 1px; 
+}
+
 a:link      {color:rgb(255,50,50);}
 a:visited   {color:rgb(255,50,50);}
 a:hover     {color:rgb(0,180,0);}
